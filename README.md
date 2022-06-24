@@ -1,1 +1,1 @@
-# Laborat-rio_CMA
+# Laboratorio_CMA
